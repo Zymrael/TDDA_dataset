@@ -7,7 +7,7 @@ Preprocessed dataset for deep domain adaptation research. Collected from a Matla
 
 ### How to:
 
-There are two available versions of TDDA: .mat or .npy files. Check the Mat2Py notebook to learn more about how to work with the original Matlab files. To access the .npy files directly, simply use numpy's 
+There are two available versions of TDDA: .mat or .npy files. Check the Mat2Py notebook for more information about the .mat to .npy conversion process. To access the .npy files directly, simply use numpy's 
 
 ```
 import numpy as np
