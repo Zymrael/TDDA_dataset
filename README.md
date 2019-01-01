@@ -11,5 +11,5 @@ There are two available versions of TDDA: .mat or .npy files. Check the Mat2Py n
 
 ```
 import numpy as np
-d = np.load('/npy_dataset/900_rpm.npy')
+d = np.load('/npy_dataset/750_rpm.npy')
 ```
