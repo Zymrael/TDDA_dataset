@@ -3,7 +3,7 @@ Preprocessed dataset for deep domain adaptation research. Collected from a Matla
 
 ### Overview
 
-![](/img/TDDA.png)
+![](/misc/TDDA.png)
 
 ### How to:
 
